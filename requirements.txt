@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy[asyncio]
+asyncpg
+alembic
+python-jose[cryptography]
+python-multipart
+PyMuPDF
+python-pptx
+python-docx
+pydantic-settings
+hypothesis
+pytest-asyncio
+pytest
+httpx
+cloudinary
